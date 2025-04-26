@@ -1,0 +1,6 @@
+com\abdullah\skillverse\skillverseapp.class
+com\abdullah\skillverse\service\postService.class
+com\abdullah\skillverse\controller\postController.class
+com\abdullah\skillverse\service\postServiceImpl.class
+com\abdullah\skillverse\repository\postRepository.class
+com\abdullah\skillverse\model\post.class
